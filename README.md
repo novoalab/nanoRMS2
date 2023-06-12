@@ -20,7 +20,7 @@ The basecalling models are stored in [/data](/data) directory.
 ## Citation
 
 If you find this work useful, please cite:  
-**Leszek P. Pryszcz<sup>#</sup>**, Anna Delgado-Tejedor, Sonia Cruciani, 
+**Leszek P. Pryszcz**<sup>#,*</sup>**, Anna Delgado-Tejedor<sup>*</sup>, Sonia Cruciani<sup>*</sup>, 
 Rebeca Medina, Laia Llovera and Eva Maria Novoa<sup>#</sup>
 (2023)
 *De novo* basecalling of m6A RNA modifications at single-molecule and single-nucleotide resolution using direct RNA nanopore sequencing
