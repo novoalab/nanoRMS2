@@ -53,6 +53,12 @@ Citation
 --------
 If you find this work useful, please cite:
 
+**Anna Delgado-Tejedor, Sonia Cruciani, Leszek P. Pryszcz**\ :sup:`#`, 
+Rebeca Medina, Laia Llovera and Eva Maria Novoa\ :sup:`#`
+(2023)
+*De novo* basecalling of m6A RNA modifications at single-molecule and single-nucleotide resolution using direct RNA nanopore sequencing
+In preparation.
+
 
 Please, consider citing :doc:`dependencies <install>` as well.
 

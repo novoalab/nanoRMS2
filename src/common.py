@@ -3,7 +3,7 @@
 import os, sys, resource
 from datetime import datetime
 
-VERSION = '1.0a'
+VERSION = '2.0a'
 
 def make_counter(count=0):
     """Simple counter"""
