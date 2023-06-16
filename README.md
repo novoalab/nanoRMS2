@@ -21,7 +21,7 @@ The basecalling models are stored in [/data](/data) directory.
 
 If you find this work useful, please cite:
 
-Sonia Crucian \*, 
+Sonia Cruciani \*, 
 Anna Delgado-Tejedor \*,
 Leszek P. Pryszcz <sup>#,</sup>\*,
 Rebeca Medina, Laia Llovera and Eva Maria Novoa <sup>#</sup>
