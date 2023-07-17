@@ -13,7 +13,7 @@ The pipeline consists of three steps / modules:
 All these steps can be run separately or as a pipeline by executing `nanoRMS2/run`.  
 
 ## Requirements
-You can find the software requirements [here](./requirements.txt)
+You can find the software versions and requirements [here](./requirements.txt).
 
 ## Additional documentation
 For more information, please visit 
