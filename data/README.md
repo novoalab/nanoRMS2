@@ -18,4 +18,4 @@ rsync -av ~/src/nanoRMS2/data ~/src/ont-guppy_3.6.1
 ```
 
 You can find more information about the training procedure in the
-[documentation](https://nanoRMS2.readthedocs.io/en/latest/training.html). 
+[documentation]https://github.com/novoalab/nanoRMS2/docs). 
