@@ -25,9 +25,9 @@ Sonia Cruciani \*,
 Anna Delgado-Tejedor \*,
 Leszek P. Pryszcz <sup>#,</sup>\*,
 Rebeca Medina, Laia Llovera and Eva Maria Novoa <sup>#</sup>
-(2023)
+(In preparation)
 *De novo* basecalling of m6A RNA modifications at single-molecule and single-nucleotide resolution using direct RNA nanopore sequencing
-In preparation.
+
 
 Note, the order of co-first authorship (\* above) was determined
 by flipping the coin on 15 Jun 2023 at 14:53 CET
