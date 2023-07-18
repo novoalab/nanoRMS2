@@ -30,7 +30,6 @@ Sonia Cruciani \*,
 Anna Delgado-Tejedor \*,
 Leszek P. Pryszcz <sup>#,</sup>\*,
 Rebeca Medina, Laia Llovera and Eva Maria Novoa <sup>#</sup>
-
 (2023)
 *De novo* basecalling of m6A modifications at single-molecule and single-nucleotide resolution. (under review)
 
