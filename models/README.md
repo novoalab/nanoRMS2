@@ -7,7 +7,7 @@ src/encode_mods.py -m model.lzma
 ```
 
 Available models:
-- human_METTL3_WT_vs_KO.lzma - models (for 328 7-mers) trained with Mettl3 WT and KO rep1 (from xPore paper) that predict m6A in human DRACH motif
+- human_METTL3_WT_vs_KO.lzma - models (for 328 7-mers) trained with Mettl3 WT and KO rep1 (from  [Pratanwanich et al. Nat Biotechnol (2021)](https://doi.org/10.1038/s41587-021-00949-w))
 
 
 If you wish to explore individual models, first install sklearn
