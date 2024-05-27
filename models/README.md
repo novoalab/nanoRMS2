@@ -7,5 +7,18 @@ src/encode_mods.py -m model.lzma
 ```
 
 Available models:
-- xPore.rep1.models.lzma - m6A DRACH model trained with xPore Mettl3 WT and KO rep1
+- human_METTL3_WT_vs_KO.lzma - models (for 328 7-mers) trained with Mettl3 WT and KO rep1 (from xPore paper) that predict m6A in human DRACH motif
 
+
+If you wish to explore individual models, first install sklearn
+```bash
+pip install -U joblib scikit-learn==1.0.1
+```
+and then you can load all models
+```python
+import joblib
+fn = "models/human_METTL3_WT_vs_KO.lzma"
+mer2clf = joblib.load(fn)
+len(mer2clf)
+print(mer2clf.keys())
+```
